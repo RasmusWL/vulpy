@@ -36,6 +36,3 @@ paths-ignore:
   - '**/jquery-*.js'
   # Python
   - '.env'
-
-paths:
-  - '/**/'
